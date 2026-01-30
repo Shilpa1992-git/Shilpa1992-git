@@ -20,13 +20,8 @@ I am a passionate **DevOps Engineer** who loves building amazing things using mo
 ## 🛠️ My Tech Stack  
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs" height="28"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" height="28"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp" height="28"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash" height="28"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" height="28"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5" height="28"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite" height="28"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" height="28"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" height="28"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" height="28"/>
